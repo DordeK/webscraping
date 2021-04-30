@@ -7,6 +7,10 @@
  
  
  
+ ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69770580/116718450-e038a600-a9d1-11eb-8f4b-e0c4fa200a42.gif)
+
+ 
+ 
  ## to start this app all you have to do is 
   
   1. git clone https://github.com/DordeK/webscraping.git
