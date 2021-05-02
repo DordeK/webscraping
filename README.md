@@ -1,14 +1,16 @@
 # webscraping
 
-# This web-aplication is made with node libary puppeteer its purpuse is scraping books from
+## This web-aplication is made with node libary puppeteer its purpuse is scraping books from
                                                                                           
 
-## url(https://books.toscrape.com)
+### url(https://books.toscrape.com)
  <br/>
 
- ##  while making it i learned the basics of web scraping
+ ###  while making it i learned the basics of web scraping
  
- 
+  <br/>
+ <br/>
+
  
  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69770580/116718450-e038a600-a9d1-11eb-8f4b-e0c4fa200a42.gif)
 
